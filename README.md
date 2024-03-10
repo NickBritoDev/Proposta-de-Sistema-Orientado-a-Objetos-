@@ -1,6 +1,10 @@
 # Proposta-de-Sistema-Orientado-a-Objetos-
 
-# Sistema Orientado a Objetos - README
+# Sistema Orientado a Objetos
+
+# Link do Figma
+https://www.figma.com/file/HJSSCUDIqkR0vkYQwKxbkV/Projeto-Integrador-Senac?type=design&node-id=0%3A1&mode=design&t=E2czg0anMQVIgALB-1
+
 
 ## Descrição dos Casos de Uso
 
