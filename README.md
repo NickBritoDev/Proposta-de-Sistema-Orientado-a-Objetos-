@@ -103,3 +103,12 @@ https://www.figma.com/file/HJSSCUDIqkR0vkYQwKxbkV/Projeto-Integrador-Senac?type=
     - O fornecedor é orientado a verificar sua conexão ou entrar em contato com o suporte.
 
 **Pós-condição:** O fornecedor revisa com sucesso a demanda de materiais requisitados.
+# Interfaces do Projeto
+## Entrar e Cadastro
+![signIn](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/efdddbf0-ebf0-4244-a8ec-2b3fe614f6c1)
+## Aluno
+![aluno](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/03fb0b29-b897-4867-b7b8-5a85fa811b83)
+## Professor
+![professor](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/21d00d86-cf21-4b5d-912f-0d7a5eac922f)
+## Fornecedor
+![fornecedor](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/16cacad2-89b4-437b-b42a-5f62efde05b2)
