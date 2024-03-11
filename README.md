@@ -5,7 +5,6 @@
 # Link do Figma
 https://www.figma.com/file/HJSSCUDIqkR0vkYQwKxbkV/Projeto-Integrador-Senac?type=design&node-id=0%3A1&mode=design&t=E2czg0anMQVIgALB-1
 
-
 ## Descrição dos Casos de Uso
 
 ### Caso de Uso: Fazer Login
@@ -103,6 +102,18 @@ https://www.figma.com/file/HJSSCUDIqkR0vkYQwKxbkV/Projeto-Integrador-Senac?type=
     - O fornecedor é orientado a verificar sua conexão ou entrar em contato com o suporte.
 
 **Pós-condição:** O fornecedor revisa com sucesso a demanda de materiais requisitados.
+
+# Diagrama de Casos de Uso
+## Aluno
+![image](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/f5435f45-ee1d-49c7-a625-480e6ecd1102)
+## Professor
+![image](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/531bfe1f-61dc-4a6b-a19a-89bf26182654)
+## Fornecedor
+![image](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/f56cef32-be71-4ba4-b9d1-74ccd7b62a8b)
+
+# Diagrama de Classes
+![image](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/555e3a00-19b6-49f9-86a3-6bed78212d07)
+
 # Interfaces do Projeto
 ## Entrar e Cadastro
 ![signIn](https://github.com/NickBritoDev/Proposta-de-Sistema-Orientado-a-Objetos-/assets/122695407/efdddbf0-ebf0-4244-a8ec-2b3fe614f6c1)
